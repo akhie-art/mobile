@@ -1,0 +1,36 @@
+/* Smartphone */
+@media only screen and (max-width: 768px) {
+
+ .home{
+   height: auto;
+   margin-bottom: 20%;
+ }
+   .navbar a {
+    font-size: 1rem;
+  }
+  .konten-home {
+    display: flex;
+    flex-direction: column;
+  }
+  .tulisan {
+    width: auto;
+    height: auto;
+    padding: 5%;
+  }
+  .konten-tulisan h1 {
+    font-size: 3rem;
+  }
+  .gambar {
+    width: auto;
+    height: auto;
+  }
+  .konten-service{
+   display: flex;
+   flex-direction: column;
+   
+  }
+  .item{
+   width: 100%;
+
+  }
+}
